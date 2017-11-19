@@ -2,7 +2,7 @@ var express = require('express')
 var app = express()
 
 // Build Your Route Here
-app.get('/'.function(req, resp){
+app.get('/', function(req, resp){
 console.log(req)
 console.log(resp)
 
