@@ -10,4 +10,3 @@ console.log(resp)
 
 module.exports = app
 
-class Request{}
